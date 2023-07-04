@@ -1,0 +1,1694 @@
+
+
+
+
+Execution Start at: 2022-07-14 08:26:51.326673........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+
+	<== HONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 5
+
+Total number of tourists for this vote:	 100
+
+Total number of ministers for this vote: 20
+
+Total number of projects selected:	 7
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+10	4	17	3	13	
+9	8	3	11	8	
+15	10	15	5	5	
+24	18	18	16	13	
+
+
+HONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+57.20 25.09
+
+
+	<== DISHONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 5
+
+Total number of tourists for this vote:	 100
+
+Total number of ministers for this vote: 20
+
+Total number of projects selected:	 6
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+10	4	17	3	5	
+9	8	3	11	4	
+10	10	15	5	10	
+19	18	18	16	14	
+
+
+DISHONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+50.97 12.59
+
+
+Program execution time:		 0:00:00.487598 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 08:27:07.087724........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+
+	<== HONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 5
+
+Total number of tourists for this vote:	 100
+
+Total number of ministers for this vote: 15
+
+Total number of projects selected:	 7
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+10	4	3	17	18	
+9	8	11	3	7	
+10	10	5	10	5	
+19	18	16	13	12	
+
+
+HONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+57.20 25.09
+
+
+	<== DISHONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 5
+
+Total number of tourists for this vote:	 100
+
+Total number of ministers for this vote: 15
+
+Total number of projects selected:	 6
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+4	3	5	10	17	
+8	11	4	9	3	
+10	5	10	5	10	
+18	16	14	14	13	
+
+
+DISHONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+39.87 25.09
+
+
+Program execution time:		 0:00:00.441007 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 08:27:23.361203........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+
+	<== HONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 5
+
+Total number of tourists for this vote:	 100
+
+Total number of ministers for this vote: 10
+
+Total number of projects selected:	 6
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+10	4	18	3	19	
+9	8	7	11	6	
+10	10	5	0	5	
+19	18	12	11	11	
+
+
+HONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+15.55 25.09
+
+
+	<== DISHONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 5
+
+Total number of tourists for this vote:	 100
+
+Total number of ministers for this vote: 10
+
+Total number of projects selected:	 8
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+4	5	10	18	3	
+8	4	9	7	11	
+10	10	5	5	0	
+18	14	14	12	11	
+
+
+DISHONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+26.65 25.09
+
+
+Program execution time:		 0:00:00.439799 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 08:28:34.195398........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+
+	<== HONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 5
+
+Total number of tourists for this vote:	 300
+
+Total number of ministers for this vote: 30
+
+Total number of projects selected:	 7
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+17	3	10	6	4	
+14	28	18	31	19	
+25	10	20	5	15	
+39	38	38	36	34	
+
+
+HONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+57.20 25.09
+
+
+	<== DISHONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 5
+
+Total number of tourists for this vote:	 300
+
+Total number of ministers for this vote: 30
+
+Total number of projects selected:	 7
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+17	3	6	4	10	
+14	28	31	19	18	
+25	10	5	15	15	
+39	38	36	34	33	
+
+
+DISHONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+57.20 25.09
+
+
+Program execution time:		 0:00:00.438794 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 08:28:44.968407........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+
+	<== HONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 5
+
+Total number of tourists for this vote:	 500
+
+Total number of ministers for this vote: 50
+
+Total number of projects selected:	 7
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+3	4	6	13	10	
+44	37	53	32	24	
+25	25	5	20	25	
+69	62	58	52	49	
+
+
+HONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+57.20 25.09
+
+
+	<== DISHONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 5
+
+Total number of tourists for this vote:	 500
+
+Total number of ministers for this vote: 50
+
+Total number of projects selected:	 7
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+3	4	6	13	17	
+44	37	53	32	23	
+25	25	5	20	25	
+69	62	58	52	48	
+
+
+DISHONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+57.20 25.09
+
+
+Program execution time:		 0:00:00.408791 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 08:29:03.350825........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+
+	<== HONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 3
+
+Total number of tourists for this vote:	 500
+
+Total number of ministers for this vote: 50
+
+Total number of projects selected:	 7
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+3	6	4	13	10	
+44	53	37	32	24	
+15	3	15	12	15	
+59	56	52	44	39	
+
+
+HONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+57.20 25.09
+
+
+	<== DISHONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 3
+
+Total number of tourists for this vote:	 500
+
+Total number of ministers for this vote: 50
+
+Total number of projects selected:	 7
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+3	6	4	13	17	
+44	53	37	32	23	
+15	3	15	12	15	
+59	56	52	44	38	
+
+
+DISHONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+57.20 25.09
+
+
+Program execution time:		 0:00:00.392677 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 08:29:10.351939........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+
+	<== HONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 1
+
+Total number of tourists for this vote:	 500
+
+Total number of ministers for this vote: 50
+
+Total number of projects selected:	 7
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+6	3	4	13	18	
+53	44	37	32	32	
+1	5	5	4	2	
+54	49	42	36	34	
+
+
+HONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+57.20 25.09
+
+
+	<== DISHONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 1
+
+Total number of tourists for this vote:	 500
+
+Total number of ministers for this vote: 50
+
+Total number of projects selected:	 8
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+6	3	4	13	18	
+53	44	37	32	32	
+1	5	5	4	2	
+54	49	42	36	34	
+
+
+DISHONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+26.65 25.09
+
+
+Program execution time:		 0:00:00.486424 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 09:02:52.244037........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+
+	<== HONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 1
+
+Total number of tourists for this vote:	 300
+
+Total number of ministers for this vote: 30
+
+Total number of projects selected:	 7
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+6	3	4	10	13	
+31	28	19	18	21	
+1	2	3	4	1	
+32	30	22	22	22	
+
+
+HONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+57.20 25.09
+
+
+	<== DISHONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 1
+
+Total number of tourists for this vote:	 300
+
+Total number of ministers for this vote: 30
+
+Total number of projects selected:	 7
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+6	3	4	13	18	
+31	28	19	21	21	
+1	2	3	1	1	
+32	30	22	22	22	
+
+
+DISHONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+57.20 25.09
+
+
+Program execution time:		 0:00:00.425965 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 09:03:18.136561........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+
+	<== HONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 3
+
+Total number of tourists for this vote:	 300
+
+Total number of ministers for this vote: 30
+
+Total number of projects selected:	 7
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+3	6	10	17	4	
+28	31	18	14	19	
+6	3	12	15	9	
+34	34	30	29	28	
+
+
+HONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+57.20 25.09
+
+
+	<== DISHONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 3
+
+Total number of tourists for this vote:	 300
+
+Total number of ministers for this vote: 30
+
+Total number of projects selected:	 7
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+3	6	17	4	10	
+28	31	14	19	18	
+6	3	15	9	9	
+34	34	29	28	27	
+
+
+DISHONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+57.20 25.09
+
+
+Program execution time:		 0:00:00.450809 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 09:03:29.959349........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+
+	<== HONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 5
+
+Total number of tourists for this vote:	 300
+
+Total number of ministers for this vote: 30
+
+Total number of projects selected:	 7
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+17	3	10	6	4	
+14	28	18	31	19	
+25	10	20	5	15	
+39	38	38	36	34	
+
+
+HONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+57.20 25.09
+
+
+	<== DISHONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 5
+
+Total number of tourists for this vote:	 300
+
+Total number of ministers for this vote: 30
+
+Total number of projects selected:	 7
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+17	3	6	4	10	
+14	28	31	19	18	
+25	10	5	15	15	
+39	38	36	34	33	
+
+
+DISHONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+57.20 25.09
+
+
+Program execution time:		 0:00:00.407600 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 09:03:43.031188........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+
+	<== HONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 5
+
+Total number of tourists for this vote:	 300
+
+Total number of ministers for this vote: 60
+
+Total number of projects selected:	 7
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+3	10	6	13	4	
+28	18	31	21	19	
+30	30	15	25	25	
+58	48	46	46	44	
+
+
+HONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+57.20 12.59
+
+
+	<== DISHONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 5
+
+Total number of tourists for this vote:	 300
+
+Total number of ministers for this vote: 60
+
+Total number of projects selected:	 7
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+3	6	13	4	17	
+28	31	21	19	14	
+30	15	25	25	30	
+58	46	46	44	44	
+
+
+DISHONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+57.20 12.59
+
+
+Program execution time:		 0:00:00.408668 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 09:03:58.427305........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+
+	<== HONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 5
+
+Total number of tourists for this vote:	 300
+
+Total number of ministers for this vote: 46
+
+Total number of projects selected:	 7
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+3	4	10	17	6	
+28	19	18	14	31	
+20	25	25	25	5	
+48	44	43	39	36	
+
+
+HONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+57.20 25.09
+
+
+	<== DISHONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 5
+
+Total number of tourists for this vote:	 300
+
+Total number of ministers for this vote: 46
+
+Total number of projects selected:	 7
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+3	4	17	10	6	
+28	19	14	18	31	
+20	25	25	20	5	
+48	44	39	38	36	
+
+
+DISHONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+57.20 25.09
+
+
+Program execution time:		 0:00:00.486276 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 09:04:07.704587........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Tourism Knapsack.py
+
+
+
+	<== HONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 5
+
+Total number of tourists for this vote:	 300
+
+Total number of ministers for this vote: 30
+
+Total number of projects selected:	 7
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+17	3	10	6	4	
+14	28	18	31	19	
+25	10	20	5	15	
+39	38	38	36	34	
+
+
+HONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+57.20 25.09
+
+
+	<== DISHONEST VOTE RESULTS ==>
+
+
+Weightage given per vote for ministers:	 5
+
+Total number of tourists for this vote:	 300
+
+Total number of ministers for this vote: 30
+
+Total number of projects selected:	 7
+
+
+PROJECTS SELECTED AND THEIR VOTE COUNTS:
+
+Projects Selected -> Tourist Votes -> Minister Votes -> Final Votes
+
+17	3	6	4	10	
+14	28	31	19	18	
+25	10	5	15	15	
+39	38	36	34	33	
+
+
+DISHONEST BUDGET UTILIZATION: ( % )
+
+Tourists -> Ministers
+
+57.20 25.09
+
+
+Program execution time:		 0:00:00.439367 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 09:15:59.607354........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+
+Program execution time:		 0:00:04.548457 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 09:17:23.210518........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+
+Program execution time:		 0:00:03.575166 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 10:23:59.592823........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+Traceback (most recent call last):
+  File "C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py", line 388, in <module>
+    main()
+  File "C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py", line 355, in main
+    [display_customized_graph(str(name)) for name in data_sources[-2:]]
+  File "C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py", line 355, in <listcomp>
+    [display_customized_graph(str(name)) for name in data_sources[-2:]]
+  File "C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py", line 314, in display_customized_graph
+    ax = plt.subplot(111, ylim=(0, 1.4 * max(total_votes)))
+NameError: name 'total_votes' is not defined
+
+
+
+
+
+Execution Start at: 2022-07-14 10:24:28.045344........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+
+Program execution time:		 0:00:03.609613 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 10:28:10.780727........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+
+Program execution time:		 0:00:03.922490 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 10:28:32.385921........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+Traceback (most recent call last):
+  File "C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py", line 388, in <module>
+    main()
+  File "C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py", line 354, in main
+    [display_graph(str(name)) for name in data_sources[:-2]]
+  File "C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py", line 354, in <listcomp>
+    [display_graph(str(name)) for name in data_sources[:-2]]
+  File "C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py", line 274, in display_graph
+    comparison.savefig(store + file_name + ".pdf", bbox_inches='tight')
+  File "C:\Users\hisur\AppData\Local\Programs\Python\Python310\lib\site-packages\matplotlib\figure.py", line 3046, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "C:\Users\hisur\AppData\Local\Programs\Python\Python310\lib\site-packages\matplotlib\backend_bases.py", line 2319, in print_figure
+    result = print_method(
+  File "C:\Users\hisur\AppData\Local\Programs\Python\Python310\lib\site-packages\matplotlib\backend_bases.py", line 1648, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\hisur\AppData\Local\Programs\Python\Python310\lib\site-packages\matplotlib\_api\deprecation.py", line 389, in wrapper
+    return func(*inner_args, **inner_kwargs)
+  File "C:\Users\hisur\AppData\Local\Programs\Python\Python310\lib\site-packages\matplotlib\backends\backend_pdf.py", line 2783, in print_pdf
+    file = PdfFile(filename, metadata=metadata)
+  File "C:\Users\hisur\AppData\Local\Programs\Python\Python310\lib\site-packages\matplotlib\backends\backend_pdf.py", line 654, in __init__
+    fh, opened = cbook.to_filehandle(filename, "wb", return_opened=True)
+  File "C:\Users\hisur\AppData\Local\Programs\Python\Python310\lib\site-packages\matplotlib\cbook\__init__.py", line 451, in to_filehandle
+    fh = open(fname, flag, encoding=encoding)
+PermissionError: [Errno 13] Permission denied: 'C:\\Users\\hisur\\Documents\\My Data\\Dynamic Data\\Research\\5. Tourism Paper Knapsack\\Simulations/Graphs/1.pdf'
+
+
+
+
+
+Execution Start at: 2022-07-14 10:28:40.224779........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+
+Program execution time:		 0:00:04.113654 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 10:29:26.757912........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+
+Program execution time:		 0:00:04.038150 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 10:30:15.380192........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+
+Program execution time:		 0:00:03.578067 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 10:30:36.472358........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+
+Program execution time:		 0:00:03.888228 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 10:31:58.908731........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+
+Program execution time:		 0:00:03.719182 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 10:42:05.225979........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+
+Program execution time:		 0:00:03.733354 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 10:42:53.823117........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+
+Program execution time:		 0:00:03.674195 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 10:43:36.967670........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+
+Program execution time:		 0:00:03.814037 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 10:45:18.668191........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+
+Program execution time:		 0:00:03.860114 hours
+
+
+
+
+
+Execution Start at: 2022-07-14 12:53:53.708753........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+
+Program execution time:		 0:00:04.094787 hours
+
+
+
+
+
+Execution Start at: 2022-07-16 08:39:06.557697........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+
+Program execution time:		 0:00:05.460127 hours
+
+
+
+
+
+Execution Start at: 2022-07-16 08:40:49.099623........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+
+Program execution time:		 0:00:03.692277 hours
+
+
+
+
+
+Execution Start at: 2022-07-16 08:41:12.792668........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+
+Program execution time:		 0:00:03.759962 hours
+
+
+
+
+
+Execution Start at: 2022-07-16 08:41:31.244153........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+
+Program execution time:		 0:00:03.749566 hours
+
+
+
+
+
+Execution Start at: 2022-07-16 08:41:54.458205........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+
+Program execution time:		 0:00:03.840052 hours
+
+
+
+
+
+Execution Start at: 2022-07-16 08:44:06.479403........................
+
+
+
+Program Name:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+Program Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations
+
+
+Program Name With Path:
+
+C:\Users\hisur\Documents\My Data\Dynamic Data\Research\5. Tourism Paper Knapsack\Simulations\Graph_Builder_Tourism.py
+
+
+
+Program execution time:		 0:00:03.763346 hours
+
